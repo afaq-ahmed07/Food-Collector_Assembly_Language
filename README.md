@@ -21,7 +21,7 @@ Follow these steps to set up and play the Food Collecting Game on your system:
 1. Clone the game repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/food-collecting-game.git
+    git clone https://github.com/afaq-ahmed07/Food-Collector_Assembly_Language.git
     ```
 
 2. Open DOSBox and mount the directory where the game code is located. For example:
