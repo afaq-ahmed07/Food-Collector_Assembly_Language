@@ -36,13 +36,13 @@ Follow these steps to set up and play the Food Collecting Game on your system:
 1. Assemble the game code using NASM:
 
     ```bash
-    nasm -f bin game.asm -o game.com
+    nasm -f bin FOOD_COL.asm -o FOOD_COL.com
     ```
 
 2. Run the game in DOSBox:
 
     ```bash
-    game.com
+    FOOD_COL.com
     ```
 
 3. Enjoy collecting food items and mastering the challenges of the game!
