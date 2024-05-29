@@ -6,6 +6,12 @@ Welcome to the Food Collecting Game, a classic gaming experience implemented in 
 
 This retro-style game allows you to collect food items in a pixelated world while avoiding obstacles and challenges. It's a fun and nostalgic journey back to the early days of gaming.
 
+
+https://github.com/afaq-ahmed07/Food-Collector_Assembly_Language/assets/118903041/648cc268-a440-47e6-ac1e-7fb2d2af8356
+
+
+
+
 ## Getting Started
 
 Follow these steps to set up and play the Food Collecting Game on your system:
